@@ -9,7 +9,7 @@
 </p>
 
 
-**CuerdOS Settings** es una aplicación de configuración para **CuerdOS GNU/Linux**, diseñada para proporcionar una interfaz gráfica intuitiva para la gestión de opciones del sistema. Está basada en **Python 3** y soporta tanto **GTK** como **Qt**, permitiendo una integración fluida con distintos entornos de escritorio.
+**CuerdOS Settings** es una aplicación de configuración para **CuerdOS GNU/Linux**, diseñada para proporcionar una interfaz gráfica intuitiva para la gestión de opciones del sistema. Está basada en **Python 3** y soporta tanto **GTK** como **Qt**, permitiendo una integración fluida con distintos entornos de escritorio (DE) y principalmente gestores de ventana (WM).
 
 ## Características
 
