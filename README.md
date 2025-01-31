@@ -34,12 +34,12 @@ Puedes clonar el repositorio y ejecutar la aplicación directamente:
 ```bash
 git clone https://github.com/gatoverde95/CuerdOS-Settings.git
 cd CuerdOS-Settings
-python3 cuerdos_settings.py
+python3 settings.py
 ```
 
 ## Uso
 
-1. Ejecuta `python3 cuerdos_settings.py`.
+1. Ejecuta `python3 settings.py`.
 2. Explora las opciones de configuración disponibles.
 3. Ajusta los parámetros según tus necesidades.
 
